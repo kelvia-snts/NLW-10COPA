@@ -1,4 +1,4 @@
-<h1 align="center"> NLW 10 COPA </h1>
+<h1 align="center"> NLW 10 CALENDÁRIO PESSOAL COPA </h1>
 
 <p align="center">Evento gratuito promovido pela Rocketseat</p>
 <p align="center">PROJETO CONSTRUÍDO UTILIZANDO HTML CSS JAVASCRIPT </p>
